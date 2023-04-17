@@ -1,3 +1,7 @@
+Hi Everyone👋
+
+
+
 🖥️ Currently working on shopify developement
 
 📚 I'm learning Javascript
